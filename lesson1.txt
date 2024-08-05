@@ -3,3 +3,9 @@ Even more content
 Final content
 A new modified line is added
 Viola a new line added, lets learn git reset
+Line a 
+Line b
+line c
+line d
+.
+.
