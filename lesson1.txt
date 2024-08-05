@@ -1,3 +1,4 @@
 This is lesson 1
 Even more content
 Final content
+A new modified line is added
